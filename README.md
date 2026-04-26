@@ -69,4 +69,5 @@ Add the key to both `en` and `hi` blocks in `src/lib/translations.ts`, then use 
 All colors, fonts, and spacing live as CSS variables at the top of `src/styles/globals.css`.
 
 Additional Notes
+
 Make sure environment variables are added correctly before running the project.
